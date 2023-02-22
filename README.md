@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/124473063/220787726-a0411a85-9ec6-43c4-a2ef-fd77caf728a3.png)
+
+
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
