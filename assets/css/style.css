@@ -86,7 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Deleted redudant classes to simplify the code. */
+/* Deleted redudant classes in main to simplify the code. */
 
 .benefit-lead {
     margin-bottom: 32px;
@@ -113,7 +113,7 @@ p {
     color: #ffffff;
 }
 
-/* Deleted more redudant classes to simplify the code. */
+/* Deleted more redudant classes in aside to simplify the code. */
 
 .search-engine-optimization img {
     max-height: 200px;
